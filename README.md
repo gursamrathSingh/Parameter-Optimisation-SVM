@@ -78,11 +78,3 @@ python svm_experiment.py
 - `class_distribution.png`: Visualization of class distribution
 - `feature_correlation.png`: Heatmap of feature correlations
 
-## License
-[MIT License](LICENSE)
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-Collab link for this :- https://colab.research.google.com/drive/1k9nkubwlQZkNm5ysEUQHccR5eP-eqg6-?usp=sharing
-
